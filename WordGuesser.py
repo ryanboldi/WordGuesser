@@ -2,9 +2,9 @@
 import random
 
 geneSet = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!."
-target = "Hello World!"
+target = "Hello world this is a program that i wrote!"
 targetLen = len(target)
-popSize = 10
+popSize = 100
 #prob that letter will be random not crossover
 mutationRate = 0.05
 #how many random words in every population
