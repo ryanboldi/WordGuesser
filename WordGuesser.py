@@ -2,7 +2,7 @@
 import random
 
 geneSet = " abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ!."
-target = "Hello world this is a program that i wrote!"
+target = "Hello world!"
 targetLen = len(target)
 popSize = 100
 #prob that letter will be random not crossover
